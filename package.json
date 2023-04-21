@@ -1,6 +1,6 @@
 {
   "name": "mtc.txt.cordova.openwith",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Cordova \"Open With\" plugin for iOS and Android",
   "cordova": {
     "id": "mtc.txt.cordova.openwith",
@@ -40,21 +40,21 @@
   "dependencies": {
     "file-system": "^2.2.2",
     "path": "^0.12.7",
-    "plist": "^2.1.0",
+    "plist": "^3.0.6",
     "xcode": "git+https://github.com/apache/cordova-node-xcode.git"
   },
   "# Dependencies required to run tests": "",
   "devDependencies": {
-    "eslint": "^4.7.2",
-    "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-mocha": "^4.11.0",
-    "eslint-plugin-node": "^5.1.1",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^3.0.1",
-    "eslint-watch": "^3.1.2",
+    "eslint": "^8.38.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-mocha": "^10.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "eslint-watch": "^8.0.0",
     "expect.js": "^0.3.1",
-    "mocha": "^3.5.3"
+    "mocha": "^10.2.0"
   },
   "# White list the files to pack by npm publish": "",
   "files": [
